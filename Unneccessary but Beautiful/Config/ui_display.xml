@@ -1,0 +1,38 @@
+<SoDead>
+	
+	<append xpath="/ui_display_info/crafting_category_display">				
+		
+		<crafting_category_list display_type="HN Working Coffee Maker">			
+			<trader_category name="Food/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFoodCooking" />
+		</crafting_category_list>
+		
+		<crafting_category_list display_type="HN Working Cooktop">			
+			<trader_category name="Food/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFoodCooking" />
+		</crafting_category_list>		
+		
+		<crafting_category_list display_type="HN Working Gas Stove">			
+			<trader_category name="Food/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFoodCooking" />
+		</crafting_category_list>
+		
+		<crafting_category_list display_type="HN Working Kitchen Cooktop">			
+			<trader_category name="Food/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFoodCooking" />
+		</crafting_category_list>		
+		
+		<crafting_category_list display_type="HN Working Microwave Black">			
+			<trader_category name="Food/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFoodCooking" />
+		</crafting_category_list>
+		
+		<crafting_category_list display_type="HN Working Modern Fireplace">			
+			<trader_category name="Food/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFoodCooking" />
+		</crafting_category_list>		
+		
+		<crafting_category_list display_type="HN Working Toaster">			
+			<trader_category name="Food/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFoodCooking" />
+		</crafting_category_list>
+		
+		<crafting_category_list display_type="HN Working Wall Oven">			
+			<trader_category name="Food/Cooking" icon="ui_game_symbol_fork" display_name="lblCategoryFoodCooking" />
+		</crafting_category_list>
+		
+	</append>
+</SoDead>

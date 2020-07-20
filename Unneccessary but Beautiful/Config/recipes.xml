@@ -1,0 +1,1847 @@
+<SoDead>
+	<append xpath="/recipes">
+
+		<recipe name="HN Bathroom Accessories" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceClayLump" count="1"/>
+			<ingredient name="resourceRockSmall" count="1"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+		</recipe>
+		
+		<recipe name="HN Bathroom Bathtub White" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceClayLump" count="1"/>
+			<ingredient name="resourceMetalPipe" count="1"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Bathroom Bathtub" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceClayLump" count="1"/>
+			<ingredient name="resourceMetalPipe" count="1"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>		
+		
+		<recipe name="HN Bathroom Cabinet 1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Bathroom Cabinet 2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Bathroom Cabinet 3" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Bathroom Cabinet 4" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Bathroom Double Shower Door" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Bathroom Light" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="4"/>
+			<ingredient name="resourceElectricParts" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceMetalPipe" count="2"/>
+		</recipe>
+		
+		<recipe name="HN Bathroom Shower Offset" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceMetalPipe" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Bathroom Shower" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceMetalPipe" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Bathroom ShowerGlass 1x1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Bathroom ShowerGlass 2x1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Bathroom Sink 2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceMetalPipe" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Bathroom Sink" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceMetalPipe" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Bathroom Toilet Paper" count="1" craft_area="workbench" tags="workbenchCrafting">			
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Bathroom Towel" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCloth" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Bed Small 1X2.5" count="1" craft_area="tablesaw" tags="tableSawCrafting">
+			<ingredient name="resourceWood" count="40"/>
+			<ingredient name="resourceScrapPolymers" count="15"/>
+			<ingredient name="resourceSpring" count="30"/>			
+			<ingredient name="resourceCloth" count="60"/>
+			<ingredient name="resourceCropCottonPlant" count="50"/>
+		</recipe>
+		
+		<recipe name="HN Bed Large 2X2.5" count="1"  craft_area="tablesaw" tags="tableSawCrafting">
+			<ingredient name="resourceWood" count="80"/>
+			<ingredient name="resourceScrapPolymers" count="30"/>
+			<ingredient name="resourceSpring" count="60"/>
+			<ingredient name="resourceCloth" count="120"/>
+			<ingredient name="resourceCropCottonPlant" count="100"/>
+		</recipe>
+		
+		<recipe name="HN Bedroom Mirror 2X1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="glassBlockVariantHelper" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet 1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet 2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet 3" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet 6" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet 7" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet 8" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet Clear Wood 1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+
+		<recipe name="HN Cabinet Clear Wood 2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet Clear Wood 3" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>		
+
+		<recipe name="HN Cabinet Clear Wood 4" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet Cube Clear Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet Cube Dark Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet Cube White Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet Dark Wood 1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+
+		<recipe name="HN Cabinet Dark Wood 2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet Dark Wood 3" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>		
+
+		<recipe name="HN Cabinet Dark Wood 4" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet Filler Clear Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet Filler Dark Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet Filler White Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet Round Corner Clear Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet Round Corner Dark Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet Round Corner White Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet White Wood 1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+
+		<recipe name="HN Cabinet White Wood 2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cabinet White Wood 3" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>		
+
+		<recipe name="HN Cabinet White Wood 4" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>		
+		
+		<recipe name="HN Ceiling Lamp Metal Top" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceMetalPipe" count="10"/>
+			<ingredient name="resourceElectricParts" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Ceiling Lamp Metal" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceMetalPipe" count="1"/>
+			<ingredient name="resourceElectricParts" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Ceiling Light Bottom" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceElectricParts" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="8"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceForgedIron" count="4"/>
+		</recipe>		
+		
+		<recipe name="HN Ceiling Light Top" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceElectricParts" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceMetalPipe" count="2"/>
+		</recipe>
+		
+		<recipe name="HN Chair Metal" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCloth" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceMetalPipe" count="12"/>
+		</recipe>
+		
+		<recipe name="HN Closet Door Bottom" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Closet Door Middle" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Closet Door" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Coffee Maker" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="10"/>
+			<ingredient name="resourceScrapPolymers" count="5"/>
+			<ingredient name="resourceBrokenGlass" count="5"/>			
+			<ingredient name="resourceMechanicalParts" count="2"/>
+		</recipe>
+		
+		<recipe name="HN Coffee Table AX1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Coffee Table AX2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Coffee Table AX3" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Coffee Table X1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Coffee Table X2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Coffee Table X3" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Computer 1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="tv" count="1"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cooker Top Chimney" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="40"/>
+			<ingredient name="resourceSpring" count="4"/>			
+			<ingredient name="resourceMechanicalParts" count="15"/>
+		</recipe>
+		
+		<recipe name="HN Cooker Top" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="40"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="15"/>
+		</recipe>	
+		
+		<recipe name="HN Cooktop" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="10"/>
+			<ingredient name="resourceMetalPipe" count="5"/>
+			<ingredient name="resourceBrokenGlass" count="8"/>			
+			<ingredient name="resourceMechanicalParts" count="10"/>
+		</recipe>
+		
+		<recipe name="HN Cupboard Clear Wood 1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>		
+		
+		<recipe name="HN Cupboard Clear Wood 2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+
+		<recipe name="HN Cupboard Clear Wood 3" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+
+		<recipe name="HN Cupboard Clear Wood 4" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cupboard Corner Clear Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cupboard Corner Dark Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cupboard Corner White Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cupboard Dark Wood 1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>		
+		
+		<recipe name="HN Cupboard Dark Wood 2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+
+		<recipe name="HN Cupboard Dark Wood 3" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+
+		<recipe name="HN Cupboard Dark Wood 4" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cupboard Large Clear Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cupboard Large Dark Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cupboard Large White Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Cupboard White Wood 1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>		
+		
+		<recipe name="HN Cupboard White Wood 2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+
+		<recipe name="HN Cupboard White Wood 3" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+
+		<recipe name="HN Cupboard White Wood 4" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>		
+		
+		<recipe name="HN Dark Wood Medium Table" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Decor Jars" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceClayLump" count="80"/>			
+		</recipe>
+		
+		<recipe name="HN Decor Plant" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="4"/>			
+			<ingredient name="resourcePotassiumNitratePowder" count="5"/>
+			<ingredient name="resourceClayLump" count="30"/>
+		</recipe>
+		
+		<recipe name="HN Decoration Spheres X2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceClayLump" count="30"/>	
+		</recipe>
+		
+		<recipe name="HN Decoration Spheres" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceClayLump" count="15"/>
+		</recipe>
+		
+		<recipe name="HN Elegant Chair 1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceLeather" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Floor Lamp" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceMetalPipe" count="5"/>
+			<ingredient name="resourceHeadlight" count="1"/>
+			<ingredient name="resourceElectricParts" count="3"/>
+			<ingredient name="resourceForgedIron" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Floor Speaker Experimental" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Fridge New" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedSteel" count="20"/>
+			<ingredient name="resourceForgedIron" count="10"/>
+			<ingredient name="resourceMetalPipe" count="5"/>
+			<ingredient name="resourceElectricParts" count="15"/>
+			<ingredient name="resourceMechanicalParts" count="10"/>
+		</recipe>
+		
+		<recipe name="HN Garden Bed" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Garden Chair" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceForgedIron" count="1"/>
+		</recipe>
+		
+		<recipe name="HN Garden Table Round" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceForgedIron" count="1"/>
+		</recipe>
+		
+		<recipe name="HN Garden Table Square" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceForgedIron" count="1"/>
+		</recipe>
+		
+		<recipe name="HN Garden Table" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceForgedIron" count="1"/>
+		</recipe>
+		
+		<recipe name="HN Gas Stove" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="20"/>
+			<ingredient name="resourceMetalPipe" count="5"/>
+			<ingredient name="resourceBrokenGlass" count="10"/>			
+			<ingredient name="resourceMechanicalParts" count="10"/>
+		</recipe>
+		
+		<recipe name="HN Glass and Metal Coffe Table" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceForgedIron" count="1"/>
+		</recipe>
+		
+		<recipe name="HN Glass and Metal Table 1x1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceForgedIron" count="1"/>
+		</recipe>
+		
+		<recipe name="HN Glass and Metal Table 2x1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceForgedIron" count="2"/>
+		</recipe>
+		
+		<recipe name="HN Glass and Metal Table 2x2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceForgedIron" count="2"/>
+		</recipe>
+		
+		<recipe name="HN Glass Closet Door 1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Glass Closet Door 2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Glass Closet Door 3" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Glass Desk" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="glassBlockVariantHelper" count="2"/>
+		</recipe>
+		
+		<recipe name="HN Glass Door" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="glassBlockVariantHelper" count="2"/>
+		</recipe>
+		
+		<recipe name="HN HT Speaker" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="20"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Kitchen Cooktop" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="40"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="15"/>
+		</recipe>
+		
+		<recipe name="HN Lamp Offset" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceMetalPipe" count="5"/>
+			<ingredient name="resourceHeadlight" count="1"/>
+			<ingredient name="resourceElectricParts" count="3"/>
+			<ingredient name="resourceForgedIron" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Lamp" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceMetalPipe" count="5"/>
+			<ingredient name="resourceHeadlight" count="1"/>
+			<ingredient name="resourceElectricParts" count="3"/>
+			<ingredient name="resourceForgedIron" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Laptop" count="1" craft_area="workbench" tags="workbenchCrafting">			
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="100"/>
+			<ingredient name="resourceMechanicalParts" count="10"/>
+			<ingredient name="resourceElectricParts" count="100"/>
+		</recipe>
+		
+		<recipe name="HN Large Table" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="30"/>			
+			<ingredient name="resourceScrapPolymers" count="10"/>
+			<ingredient name="resourceMechanicalParts" count="10"/>
+		</recipe>
+		
+		<recipe name="HN Main Door" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Main Double Door" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="40"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Microwave Black" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="10"/>
+			<ingredient name="resourceScrapPolymers" count="5"/>
+			<ingredient name="resourceBrokenGlass" count="5"/>
+			<ingredient name="resourceMechanicalParts" count="2"/>
+		</recipe>
+		
+		<recipe name="HN Modern Chair" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCloth" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceMetalPipe" count="10"/>
+		</recipe>
+		
+		<recipe name="HN Modern Fireplace" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN NightStand" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Nighttable Back Lamp" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Nighttable Lamp" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Nighttable" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Painting 1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourcePaint" count="2"/>
+			<ingredient name="resourceCloth" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="glassBlockVariantHelper" count="1"/>
+		</recipe>
+		
+		<recipe name="HN Painting 2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourcePaint" count="2"/>
+			<ingredient name="resourceCloth" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="glassBlockVariantHelper" count="1"/>
+		</recipe>
+		
+		<recipe name="HN Painting 3" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourcePaint" count="2"/>
+			<ingredient name="resourceCloth" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="glassBlockVariantHelper" count="1"/>
+		</recipe>
+		
+		<recipe name="HN Painting 4" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourcePaint" count="2"/>
+			<ingredient name="resourceCloth" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="glassBlockVariantHelper" count="1"/>
+		</recipe>
+		
+		<recipe name="HN Painting 5" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourcePaint" count="2"/>
+			<ingredient name="resourceCloth" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="glassBlockVariantHelper" count="1"/>
+		</recipe>
+		
+		<recipe name="HN Painting 6" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourcePaint" count="2"/>
+			<ingredient name="resourceCloth" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="glassBlockVariantHelper" count="1"/>
+		</recipe>
+		
+		<recipe name="HN Palm Plant Pot" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="4"/>			
+			<ingredient name="resourcePotassiumNitratePowder" count="5"/>
+			<ingredient name="resourceClayLump" count="30"/>
+		</recipe>
+		
+		<recipe name="HN PC Chair Black" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceLeather" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceCropCottonPlant" count="10"/>	
+		</recipe>
+		
+		<recipe name="HN PC Chair Brown" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceLeather" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceCropCottonPlant" count="10"/>	
+		</recipe>
+		
+		<recipe name="HN PC Chair White" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceLeather" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceCropCottonPlant" count="10"/>			
+		</recipe>
+		
+		<recipe name="HN Puff" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceCropCottonPlant" count="10"/>	
+		</recipe>
+		
+		<recipe name="HN Rack 1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Rack 2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Rack 3" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Rack 4" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Rack 5" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Rack 6" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Rack 7" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Rack 8" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Rack Modular 1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Rack Modular 2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN RG Gamer Desk 2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceElectricParts" count="1"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="glassBlockVariantHelper" count="1"/>
+		</recipe>
+		
+		<recipe name="HN RG Gamer Desk" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceElectricParts" count="1"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="glassBlockVariantHelper" count="1"/>
+		</recipe>
+		
+		<recipe name="HN RG Mug Offset" count="1" craft_area="forge" tags="perkAdvancedEngineering">
+			<ingredient name="unit_clay" count="10"/>
+		</recipe>
+		
+		<recipe name="HN RG Mug" count="1" craft_area="forge" tags="perkAdvancedEngineering">
+			<ingredient name="unit_clay" count="10"/>
+		</recipe>
+		
+		<recipe name="HN RG Poster" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourcePaper" count="1"/>
+			<ingredient name="resourcePaint" count="2"/>
+		</recipe>
+		
+		<recipe name="HN RG YouTube Award" count="1" craft_area="workbench" tags="workbenchCrafting">			
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="20"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceSilverNugget" count="1"/>
+			<ingredient name="resourcePaint" count="2"/>
+		</recipe>
+		
+		<recipe name="HN SD Window Panel x1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>			
+			<ingredient name="resourceScrapPolymers" count="2"/>			
+		</recipe>
+		
+		<recipe name="HN SD Window Panel x2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>			
+			<ingredient name="resourceScrapPolymers" count="2"/>
+		</recipe>
+		
+		<recipe name="HN SD Window Panel x4" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>			
+			<ingredient name="resourceScrapPolymers" count="2"/>
+		</recipe>
+		
+		<recipe name="HN Sink Clear Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>			
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceForgedIron" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Sink Dark Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>			
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceForgedIron" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Sink White Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>			
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceForgedIron" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Sink" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>			
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceForgedIron" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Sliding Door Mirrored Glass" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>			
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Sliding Door" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>			
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Sofa Arm Black" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Sofa Arm Brown" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Sofa Arm Gray" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Sofa Arm Left Black" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Sofa Arm Left Brown" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Sofa Arm Left Gray" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Sofa Arm Left White" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Sofa Arm Right Black" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Sofa Arm Right Brown" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Sofa Arm Right Gray" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Sofa Arm Right White" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Sofa Arm White" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Sofa Black" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Sofa Brown" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Sofa Corner Black" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Sofa Corner Brown" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Sofa Corner Gray" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Sofa Corner White" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Sofa Gray" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Sofa White" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCropCottonPlant" count="20"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceLeather" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Swimming Pool Block 01" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceConcreteMix" count="20"/>
+			<ingredient name="resourceElectricParts" count="10"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+		</recipe>
+		
+		<recipe name="HN Swimming Pool Block 02" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceConcreteMix" count="20"/>
+			<ingredient name="resourceElectricParts" count="10"/>
+			<ingredient name="resourceScrapPolymers" count="6"/>
+		</recipe>
+		
+		<recipe name="HN Swimming Pool Stairs 01" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceConcreteMix" count="20"/>	
+		</recipe>
+		
+		<recipe name="HN Swimming Pool Stairs 02" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceConcreteMix" count="20"/>	
+		</recipe>		
+		
+		<recipe name="HN Toaster" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Toy Teddy Bear" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCloth" count="1"/>
+			<ingredient name="resourceCropCottonPlant" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>			
+		</recipe>
+		
+		<recipe name="HN TV Set Large X3" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="tv" count="1"/>
+			<ingredient name="HN Rack Modular 1" count="3"/>
+			<ingredient name="resourceScrapPolymers" count="20"/>
+			<ingredient name="resourceMechanicalParts" count="10"/>
+			<ingredient name="resourceElectricParts" count="40"/>
+		</recipe>
+		
+		<recipe name="HN TV Set X2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="tv" count="1"/>
+			<ingredient name="HN Rack Modular 1" count="2"/>
+			<ingredient name="resourceScrapPolymers" count="20"/>
+			<ingredient name="resourceMechanicalParts" count="10"/>
+			<ingredient name="resourceElectricParts" count="40"/>
+		</recipe>
+		
+		<recipe name="HN TV Wall X2 B" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="tv" count="1"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="20"/>
+			<ingredient name="resourceMechanicalParts" count="10"/>
+			<ingredient name="resourceElectricParts" count="40"/>
+		</recipe>
+		
+		<recipe name="HN TV Wall X2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="tv" count="1"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="20"/>
+			<ingredient name="resourceMechanicalParts" count="10"/>
+			<ingredient name="resourceElectricParts" count="40"/>
+		</recipe>
+		
+		<recipe name="HN Umbrella Blue" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCloth" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceMetalPipe" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Umbrella Green" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCloth" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceMetalPipe" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Umbrella Red" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCloth" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceMetalPipe" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Umbrella Stand" count="1" craft_area="workbench" tags="workbenchCrafting">
+		<ingredient name="resourceForgedIron" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Umbrella White and Red" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCloth" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceMetalPipe" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Umbrella Yellow" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceCloth" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceMetalPipe" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wall Oven" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="20"/>
+			<ingredient name="resourceMetalPipe" count="5"/>
+			<ingredient name="resourceBrokenGlass" count="10"/>			
+			<ingredient name="resourceMechanicalParts" count="10"/>
+		</recipe>		
+		
+		<recipe name="HN Video Game Console PS Offset" count="1" craft_area="workbench" tags="workbenchCrafting">			
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceElectricParts" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Video Game Console PS" count="1" craft_area="workbench" tags="workbenchCrafting">			
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceElectricParts" count="20"/>
+		</recipe>
+		
+		<recipe name="HN Window A1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Window A2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Window A3" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Window A4" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Window A5" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Window A6" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Window A7" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Window A8" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Window A9" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Window B1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Window B2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Window B3" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Window B4" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Window B5" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Window B6" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Window B7" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Window B8" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Window B9" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Window B10 Inverted" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Door Brown Top Window" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="glassBlockVariantHelper" count="1"/>	
+		</recipe>
+		
+		<recipe name="HN Wood Door Brown" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Door Clear Top Window" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="glassBlockVariantHelper" count="1"/>
+		</recipe>
+		
+		<recipe name="HN Wood Door Clear" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Door Gray Top Window" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="glassBlockVariantHelper" count="1"/>
+		</recipe>
+		
+		<recipe name="HN Wood Door Gray" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Door White Top Window" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="glassBlockVariantHelper" count="1"/>
+		</recipe>
+		
+		<recipe name="HN Wood Door White" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Double Door Brown Top Window" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="glassBlockVariantHelper" count="1"/>	
+		</recipe>
+		
+		<recipe name="HN Wood Double Door Brown" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Double Door Clear Top Window" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="glassBlockVariantHelper" count="1"/>	
+		</recipe>
+		
+		<recipe name="HN Wood Double Door Clear" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Double Door Gray Top Window" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="glassBlockVariantHelper" count="1"/>	
+		</recipe>
+		
+		<recipe name="HN Wood Double Door Gray" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Double Door White Top Window" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Double Door White" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Window 1x1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Window 2x1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Window 2x2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Window Sect 1x1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Window Sect 2x1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Window Sect 2x2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Window Sect White 1x1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Window Sect White 2x1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Window Sect White 2x2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Window White 1x1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Window White 2x1" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Wood Window White 2x2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="glassBlockVariantHelper" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+		</recipe>
+		
+		<!-- WORKSTATIONS -->
+		<recipe name="HN Working Bathroom Sink" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceMetalPipe" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceForgedIron" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Working Bathroom Sink 2" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceMetalPipe" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceForgedIron" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Working Coffee Maker" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="10"/>
+			<ingredient name="resourceScrapPolymers" count="5"/>
+			<ingredient name="resourceBrokenGlass" count="5"/>
+			<ingredient name="resourceElectricParts" count="20"/>
+			<ingredient name="resourceMechanicalParts" count="2"/>
+		</recipe>
+		
+		<recipe name="HN Working Cooktop" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="20"/>
+			<ingredient name="resourceMetalPipe" count="5"/>
+			<ingredient name="resourceBrokenGlass" count="10"/>
+			<ingredient name="resourceElectricParts" count="15"/>
+			<ingredient name="resourceMechanicalParts" count="10"/>
+		</recipe>
+		
+		<recipe name="HN Working Gas Stove" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="20"/>
+			<ingredient name="resourceMetalPipe" count="5"/>
+			<ingredient name="resourceBrokenGlass" count="10"/>
+			<ingredient name="resourceElectricParts" count="15"/>
+			<ingredient name="resourceMechanicalParts" count="10"/>
+		</recipe>
+		
+		<recipe name="HN Working Kitchen Cooktop" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="20"/>
+			<ingredient name="resourceMetalPipe" count="5"/>
+			<ingredient name="resourceBrokenGlass" count="10"/>
+			<ingredient name="resourceElectricParts" count="15"/>
+			<ingredient name="resourceMechanicalParts" count="10"/>
+		</recipe>
+		
+		<recipe name="HN Working Microwave Black" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="10"/>
+			<ingredient name="resourceScrapPolymers" count="5"/>
+			<ingredient name="resourceBrokenGlass" count="5"/>
+			<ingredient name="resourceElectricParts" count="20"/>
+			<ingredient name="resourceMechanicalParts" count="2"/>
+		</recipe>
+		
+		<recipe name="HN Working Modern Fireplace" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="20"/>
+			<ingredient name="resourceMetalPipe" count="5"/>
+			<ingredient name="resourceBrokenGlass" count="10"/>
+			<ingredient name="resourceElectricParts" count="15"/>
+			<ingredient name="resourceMechanicalParts" count="10"/>
+		</recipe>
+		
+		<recipe name="HN Working Sink Clear Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceMetalPipe" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceForgedIron" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Working Sink Dark Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceMetalPipe" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceForgedIron" count="4"/>
+		</recipe>	
+		
+		<recipe name="HN Working Sink White Wood" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceMetalPipe" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceForgedIron" count="4"/>
+		</recipe>	
+		
+		<recipe name="HN Working Sink" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceWood" count="10"/>
+			<ingredient name="resourceMetalPipe" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceForgedIron" count="4"/>
+		</recipe>
+		
+		<recipe name="HN Working Toaster" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="10"/>
+			<ingredient name="resourceSpring" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="2"/>
+			<ingredient name="resourceMechanicalParts" count="4"/>
+			<ingredient name="resourceElectricParts" count="5"/>
+		</recipe>
+		
+		<recipe name="HN Working Wall Oven" count="1" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="resourceForgedIron" count="20"/>
+			<ingredient name="resourceMetalPipe" count="5"/>
+			<ingredient name="resourceBrokenGlass" count="10"/>
+			<ingredient name="resourceElectricParts" count="15"/>
+			<ingredient name="resourceMechanicalParts" count="10"/>
+		</recipe>
+		
+	</append>
+</SoDead>

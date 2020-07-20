@@ -1,0 +1,7 @@
+<SoDead>
+	<append xpath="/lootcontainers">
+		 <!--Medicine Cabinet -->
+		<lootcontainer id="422" size="10,9" sound_open="UseActions/open_cupboard" sound_close="UseActions/close_cupboard" >
+			</lootcontainer>
+	</append>
+</SoDead>
